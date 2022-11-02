@@ -1,2 +1,2 @@
-print("Hello World!")
-# Added comment
+def add(a, b):
+    return a + b # add two numbers
